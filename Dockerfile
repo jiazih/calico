@@ -1,1 +1,1 @@
-FROM google/pause:latest
+FROM docker.io/google/pause:latest
