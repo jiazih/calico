@@ -1,1 +1,1 @@
-FROM https://k8s.gcr.io/pause:3.9
+FROM google/pause:latest
