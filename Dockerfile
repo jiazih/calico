@@ -1,1 +1,1 @@
-FROM docker.io/google/pause:latest
+FROM k8s.gcr.io/pause:latest
