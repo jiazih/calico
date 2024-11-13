@@ -1,1 +1,1 @@
-FROM docker.io/calico/pod2daemon-flexvol:v3.29.0
+FROM https://k8s.gcr.io/pause:3.9
