@@ -1,1 +1,1 @@
-FROM docker.io/calico/cni:latest
+FROM docker.io/calico/apiserver:v3.29.0
