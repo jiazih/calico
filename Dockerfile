@@ -1,1 +1,1 @@
-FROM docker.io/calico/kube-controllers:v3.29.0
+FROM docker.io/calico/typha:v3.29.0
