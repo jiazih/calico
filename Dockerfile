@@ -1,1 +1,1 @@
-FROM docker.io/calico/apiserver:v3.29.0
+FROM docker.io/calico/csi:v3.29.0
