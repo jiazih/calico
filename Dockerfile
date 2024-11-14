@@ -1,1 +1,1 @@
-FROM docker.io/calico/ctl:v3.29.0
+FROM docker.io/calico/dikastes:v3.29.0
