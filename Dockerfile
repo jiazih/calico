@@ -1,1 +1,1 @@
-FROM docker.io/python:3.12.6-alpine
+FROM docker.io/nginx:1.27.2
