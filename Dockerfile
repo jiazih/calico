@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kube-apiserver:v1.28.15
+FROM kube-controller-manager:v1.28.15
