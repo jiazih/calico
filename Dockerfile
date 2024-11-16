@@ -1,1 +1,1 @@
-FROM docker.io/golang:1.23.3
+FROM docker.io/python:3.12.6-alpine
